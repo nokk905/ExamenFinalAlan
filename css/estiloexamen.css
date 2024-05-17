@@ -1,0 +1,52 @@
+#menu {
+    background-color: greenyellow;
+    height: 20px;
+    width: 150px;
+}
+
+#tituloenlaces {
+    color: green;
+}
+
+#titulos {
+    color: red;
+    margin-left: 10px;
+}
+
+#foto {
+    position: absolute;
+    width: 230px;
+    
+}
+
+#parrafo {
+    margin-left: 270px;
+    line-height: 60px;
+}
+
+
+#divtexto {
+    margin-top: 140px;
+}
+
+#divenlaces {
+    margin-top: 100px;
+}
+
+#palmares {
+    text-align: center;
+    color: red;
+}
+
+#parrafo3 {
+    text-align: center;
+}
+
+#tabla {
+    justify-content: center;
+}
+
+#campeon {
+    background-color: yellow;
+}
+
